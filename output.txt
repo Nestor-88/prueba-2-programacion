@@ -1,0 +1,14 @@
+--- ESTADO DEL CONTENEDOR ---
+CONTAINER ID   IMAGE           COMMAND             CREATED         STATUS                     PORTS     NAMES
+9336a5f3c1cc   clima-sur-app   "python clima.py"   9 minutes ago   Exited (0) 9 minutes ago             samplerunning
+\--- LOGS DE LA APLICACION ---
+==================================================
+ ALERTA CLIMÁTICA PARA VIAJEROS EN EL SUR DE CHILE 
+==================================================
+Ciudad Monitoreada : Puerto Montt
+Temperatura Actual : 2.46°C
+Humedad Ambiental  : 100%
+Estado del Tiempo  : Niebla
+==================================================
+Consejo: El clima en el sur cambia rápido. ¡Lleva ropa impermeable!
+==================================================
